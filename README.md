@@ -1,6 +1,5 @@
 # Word-to-PDF Converter GUI
 
-**Descripción**  
 Aplicación Windows con interfaz gráfica para convertir uno o varios archivos .docx a PDF usando docx2pdf y tkinter.
 
 ## Requisitos
