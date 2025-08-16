@@ -5,7 +5,11 @@ Aplicación Windows con interfaz gráfica para convertir uno o varios archivos .
 ## Requisitos
 - Python 3.x  
 - docx2pdf
-- tkinter 
+- tkinter
+
+```python
+pip install tkinter docx2pdf
+```
 
 ## Funcionalidades
 - Selección múltiple de archivos o carpeta completa  
